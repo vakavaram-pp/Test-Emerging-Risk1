@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Test Emergin 1624929328384" max_length="40" name="x_snc_test_emergin_1624929328384" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=context" label="context" max_length="445" name="u_context" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Inherernt Risk Rating" label="Inherernt Risk Rating" max_length="40" name="u_inherernt_risk_rating" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=mitigation owner" label="mitigation owner" max_length="62" name="u_mitigation_owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Originating Id" label="Originating Id" max_length="40" name="u_originating_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=pulse_risk_code" label="pulse_risk_code" max_length="40" name="u_pulse_risk_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Risk Category" label="Risk Category" max_length="40" name="u_risk_category" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Risk Origination" label="Risk Origination" max_length="40" name="u_risk_origination" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Risk Title" label="Risk Title" max_length="117" name="u_risk_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=risk treatment" label="risk treatment" max_length="40" name="u_risk_treatment" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=time of horizon" label="time of horizon" max_length="40" name="u_time_of_horizon" type="string"/>
+    </element>
+</database>

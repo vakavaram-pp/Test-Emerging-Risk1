@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_inherernt_risk_rating" label="Inherernt Risk Rating" language="en" table="x_snc_test_emergin_1624929328384">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_inherernt_risk_rating</element>
+            <help/>
+            <hint/>
+            <label>Inherernt Risk Rating</label>
+            <language>en</language>
+            <name>x_snc_test_emergin_1624929328384</name>
+            <plural>Inherernt Risk Ratings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>vakavaram</sys_created_by>
+            <sys_created_on>2021-06-29 01:15:29</sys_created_on>
+            <sys_id>638d9a1d1b89bc905b0e55361a4bcbcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Inherernt Risk Rating</sys_name>
+            <sys_package display_value="Test Emerging Risk1" source="x_snc_test_emergin">8de916191b89bc905b0e55361a4bcb2e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Emerging Risk1">8de916191b89bc905b0e55361a4bcb2e</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_test_emergin_1624929328384_u_inherernt_risk_rating_en</sys_update_name>
+            <sys_updated_by>vakavaram</sys_updated_by>
+            <sys_updated_on>2021-06-29 01:15:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

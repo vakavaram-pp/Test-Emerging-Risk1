@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Test Emergin 1624929462063" max_length="40" name="x_snc_test_emergin_1624929462063" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=pulse rtl code" label="pulse rtl code" max_length="40" name="u_pulse_rtl_code" type="string"/>
+        <element attributes="import_attribute_name=pulse rtl id" label="pulse rtl id" max_length="40" name="u_pulse_rtl_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=pulse rtl parent id" label="pulse rtl parent id" max_length="40" name="u_pulse_rtl_parent_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=rtl definition" label="rtl definition" max_length="406" name="u_rtl_definition" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=rtl title" label="rtl title" max_length="40" name="u_rtl_title" type="string"/>
+    </element>
+</database>

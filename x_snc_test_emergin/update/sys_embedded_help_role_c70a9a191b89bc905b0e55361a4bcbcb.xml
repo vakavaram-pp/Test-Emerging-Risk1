@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_snc_test_emergin.ioad_er_admin" name="x_snc_test_emergin.ioad_er_admin">8b0a9a191b89bc905b0e55361a4bcbc5</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>vakavaram</sys_created_by>
+        <sys_created_on>2021-06-29 01:00:09</sys_created_on>
+        <sys_id>c70a9a191b89bc905b0e55361a4bcbcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8b0a9a191b89bc905b0e55361a4bcbc5</sys_name>
+        <sys_package display_value="Test Emerging Risk1" source="x_snc_test_emergin">8de916191b89bc905b0e55361a4bcb2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Emerging Risk1">8de916191b89bc905b0e55361a4bcb2e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c70a9a191b89bc905b0e55361a4bcbcb</sys_update_name>
+        <sys_updated_by>vakavaram</sys_updated_by>
+        <sys_updated_on>2021-06-29 01:00:09</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Risk Type Level" max_length="40" name="x_snc_test_emergin_risk_type_level" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="pulse rtl code" max_length="40" name="pulse_rtl_code" type="string"/>
+        <element label="pulse rtl id" max_length="40" name="pulse_rtl_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="pulse rtl parent id" max_length="40" name="pulse_rtl_parent_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="rtl definition" max_length="406" name="rtl_definition" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="rtl title" max_length="40" name="rtl_title" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="f6d22ed11bc9bc905b0e55361a4bcb81" sys_domain="global" table="x_snc_test_emergin_grc_legal_entity" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>vakavaram</sys_created_by>
+            <sys_created_on>2021-06-29 01:38:38</sys_created_on>
+            <sys_id>32d22ed11bc9bc905b0e55361a4bcb89</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_test_emergin_grc_legal_entity" sys_domain="global" view="Default view">f6d22ed11bc9bc905b0e55361a4bcb81</sys_ui_section>
+            <sys_updated_by>vakavaram</sys_updated_by>
+            <sys_updated_on>2021-06-29 01:38:38</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>vakavaram</sys_created_by>
+            <sys_created_on>2021-06-29 01:38:38</sys_created_on>
+            <sys_id>bad22ed11bc9bc905b0e55361a4bcb89</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_test_emergin_grc_legal_entity" sys_domain="global" view="Default view">f6d22ed11bc9bc905b0e55361a4bcb81</sys_ui_section>
+            <sys_updated_by>vakavaram</sys_updated_by>
+            <sys_updated_on>2021-06-29 01:38:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>jur_title</element>
+            <position>2</position>
+            <sys_created_by>vakavaram</sys_created_by>
+            <sys_created_on>2021-06-29 01:38:38</sys_created_on>
+            <sys_id>32d22ed11bc9bc905b0e55361a4bcb8a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_test_emergin_grc_legal_entity" sys_domain="global" view="Default view">f6d22ed11bc9bc905b0e55361a4bcb81</sys_ui_section>
+            <sys_updated_by>vakavaram</sys_updated_by>
+            <sys_updated_on>2021-06-29 01:38:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pulse_le_parent_id</element>
+            <position>3</position>
+            <sys_created_by>vakavaram</sys_created_by>
+            <sys_created_on>2021-06-29 01:38:38</sys_created_on>
+            <sys_id>bad26ed11bc9bc905b0e55361a4bcbe6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_test_emergin_grc_legal_entity" sys_domain="global" view="Default view">f6d22ed11bc9bc905b0e55361a4bcb81</sys_ui_section>
+            <sys_updated_by>vakavaram</sys_updated_by>
+            <sys_updated_on>2021-06-29 01:38:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>vakavaram</sys_created_by>
+            <sys_created_on>2021-06-29 01:38:38</sys_created_on>
+            <sys_id>32d26ed11bc9bc905b0e55361a4bcbe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_test_emergin_grc_legal_entity" sys_domain="global" view="Default view">f6d22ed11bc9bc905b0e55361a4bcb81</sys_ui_section>
+            <sys_updated_by>vakavaram</sys_updated_by>
+            <sys_updated_on>2021-06-29 01:38:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pulse_le_code</element>
+            <position>5</position>
+            <sys_created_by>vakavaram</sys_created_by>
+            <sys_created_on>2021-06-29 01:38:38</sys_created_on>
+            <sys_id>b6d26ed11bc9bc905b0e55361a4bcbe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_test_emergin_grc_legal_entity" sys_domain="global" view="Default view">f6d22ed11bc9bc905b0e55361a4bcb81</sys_ui_section>
+            <sys_updated_by>vakavaram</sys_updated_by>
+            <sys_updated_on>2021-06-29 01:38:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>le_title</element>
+            <position>6</position>
+            <sys_created_by>vakavaram</sys_created_by>
+            <sys_created_on>2021-06-29 01:38:38</sys_created_on>
+            <sys_id>3ed26ed11bc9bc905b0e55361a4bcbe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_test_emergin_grc_legal_entity" sys_domain="global" view="Default view">f6d22ed11bc9bc905b0e55361a4bcb81</sys_ui_section>
+            <sys_updated_by>vakavaram</sys_updated_by>
+            <sys_updated_on>2021-06-29 01:38:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pulse_le_id</element>
+            <position>7</position>
+            <sys_created_by>vakavaram</sys_created_by>
+            <sys_created_on>2021-06-29 01:38:38</sys_created_on>
+            <sys_id>b2d26ed11bc9bc905b0e55361a4bcbe8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_test_emergin_grc_legal_entity" sys_domain="global" view="Default view">f6d22ed11bc9bc905b0e55361a4bcb81</sys_ui_section>
+            <sys_updated_by>vakavaram</sys_updated_by>
+            <sys_updated_on>2021-06-29 01:38:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>vakavaram</sys_created_by>
+            <sys_created_on>2021-06-29 01:38:38</sys_created_on>
+            <sys_id>3ad26ed11bc9bc905b0e55361a4bcbe8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_test_emergin_grc_legal_entity" sys_domain="global" view="Default view">f6d22ed11bc9bc905b0e55361a4bcb81</sys_ui_section>
+            <sys_updated_by>vakavaram</sys_updated_by>
+            <sys_updated_on>2021-06-29 01:38:38</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_test_emergin_grc_legal_entity</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>vakavaram</sys_created_by>
+            <sys_created_on>2021-06-29 01:38:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f6d22ed11bc9bc905b0e55361a4bcb81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_test_emergin_grc_legal_entity</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test Emerging Risk1" source="x_snc_test_emergin">8de916191b89bc905b0e55361a4bcb2e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Emerging Risk1">8de916191b89bc905b0e55361a4bcb2e</sys_scope>
+            <sys_update_name>sys_ui_section_f6d22ed11bc9bc905b0e55361a4bcb81</sys_update_name>
+            <sys_updated_by>vakavaram</sys_updated_by>
+            <sys_updated_on>2021-06-29 01:38:38</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

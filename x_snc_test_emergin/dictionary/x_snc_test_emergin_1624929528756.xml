@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="Test Emergin 1624929528756" max_length="40" name="x_snc_test_emergin_1624929528756" type="collection">
+    <element extends="sys_import_set_row" label="Test Emergin 1624929528756" max_length="40" name="x_snc_test_emergin_1624929528756" sizeclass="1" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=jur title" label="jur title" max_length="40" name="u_jur_title" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=le title" label="le title" max_length="40" name="u_le_title" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=pulse le code" label="pulse le code" max_length="40" name="u_pulse_le_code" type="string"/>

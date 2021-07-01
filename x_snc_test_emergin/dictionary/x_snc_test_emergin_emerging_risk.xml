@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Emerging Risk" max_length="40" name="x_snc_test_emergin_emerging_risk" type="collection">
+    <element label="Emerging Risk" max_length="40" name="x_snc_test_emergin_emerging_risk" sizeclass="18" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Context" max_length="445" name="context" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Inherernt Risk Rating" max_length="40" name="inherernt_risk_rating" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="mitigation owner" max_length="62" name="mitigation_owner" type="string"/>

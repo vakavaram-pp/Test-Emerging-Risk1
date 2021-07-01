@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Risk Type Level" max_length="40" name="x_snc_test_emergin_risk_type_level" type="collection">
+    <element label="Risk Type Level" max_length="40" name="x_snc_test_emergin_risk_type_level" sizeclass="6" type="collection">
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="pulse rtl code" max_length="40" name="pulse_rtl_code" type="string"/>
         <element label="pulse rtl id" max_length="40" name="pulse_rtl_id" type="integer"/>

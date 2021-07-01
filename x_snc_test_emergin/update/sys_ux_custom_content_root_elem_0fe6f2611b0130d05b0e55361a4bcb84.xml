@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_custom_content_root_elem">
+    <sys_ux_custom_content_root_elem action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability>single</applicability>
+        <applicable_page display_value="Agent Workspace">09d6f2c28727030084aca571d5cb0b5b</applicable_page>
+        <attrs/>
+        <children/>
+        <component/>
+        <is_root>true</is_root>
+        <layout/>
+        <macroponent display_value="test custom page1">4fe6f2611b0130d05b0e55361a4bcb80</macroponent>
+        <macroponent_config>{
+  "label" : ""
+}</macroponent_config>
+        <name>test custom page1</name>
+        <order>0</order>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <parent/>
+        <parent_slot/>
+        <picker/>
+        <picker_condition/>
+        <placeholder display_value="Landing Page Placeholder">51a768297710330022f7f4d26810617d</placeholder>
+        <sys_class_name>sys_ux_custom_content_root_elem</sys_class_name>
+        <sys_created_by>vakavaram</sys_created_by>
+        <sys_created_on>2021-06-29 21:44:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0fe6f2611b0130d05b0e55361a4bcb84</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>test custom page1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test Emerging Risk1" source="x_snc_test_emergin">8de916191b89bc905b0e55361a4bcb2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Emerging Risk1">8de916191b89bc905b0e55361a4bcb2e</sys_scope>
+        <sys_update_name>sys_ux_custom_content_root_elem_0fe6f2611b0130d05b0e55361a4bcb84</sys_update_name>
+        <sys_updated_by>vakavaram</sys_updated_by>
+        <sys_updated_on>2021-06-29 21:47:30</sys_updated_on>
+        <tree_root/>
+    </sys_ux_custom_content_root_elem>
+    <sys_variable_value action="delete_multiple" query="document_key=0fe6f2611b0130d05b0e55361a4bcb84"/>
+</record_update>

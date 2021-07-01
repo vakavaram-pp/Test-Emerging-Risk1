@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="GRC Legal Entity" max_length="40" name="x_snc_test_emergin_grc_legal_entity" type="collection">
+    <element label="GRC Legal Entity" max_length="40" name="x_snc_test_emergin_grc_legal_entity" sizeclass="1" type="collection">
         <element attributes="edge_encryption_enabled=true" label="jur title" max_length="40" name="jur_title" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="le title" max_length="40" name="le_title" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
